@@ -7,4 +7,4 @@ Upon completion, you will have two artifacts that you would be able to present t
 
 In your deliverables, you will include the model evaluation (and interpretation if applicable), a data visualization(s) of your choice that is directly related to the question you ask, ethical considerations, and the resources you used to troubleshoot and find answers or solutions.
 
-# Check the file  'capstone-project.ipynb' for entire Kaggle notebook
+# Check the file  [capstone-project.ipynb] for entire Kaggle notebook
